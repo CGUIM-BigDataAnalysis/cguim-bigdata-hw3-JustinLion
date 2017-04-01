@@ -5,23 +5,6 @@
 ------------
 
 ``` r
-library(Rfacebook)
-```
-
-    ## Loading required package: httr
-
-    ## Loading required package: rjson
-
-    ## Loading required package: httpuv
-
-    ## 
-    ## Attaching package: 'Rfacebook'
-
-    ## The following object is masked from 'package:methods':
-    ## 
-    ##     getGroup
-
-``` r
 library(rvest) 
 ```
 

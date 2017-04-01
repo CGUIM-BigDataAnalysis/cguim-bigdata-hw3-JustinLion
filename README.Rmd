@@ -4,7 +4,6 @@ output: github_document
 ---
 ## 網站資料爬取
 ```{r}
-library(Rfacebook)
 library(rvest) 
 Teco_job <-NULL
 for (i in 1:6){
